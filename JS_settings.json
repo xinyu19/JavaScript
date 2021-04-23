@@ -1,0 +1,17 @@
+{  
+    "previewServer.port": 8081,
+    "editor.fontSize": 18,
+    "window.zoomLevel": 1,
+    "git.ignoreWindowsGit27Warning": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+      "editor.formatOnSave": false
+    },
+    "prettier.disableLanguages": ["js"],
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.alwaysShowStatus": true,
+    "files.autoSave": "afterDelay"
+  }
